@@ -19,7 +19,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             - contact admin@digisignplay.com
             - submit ticket for technical issue
-            - learn more from digisignPlay BAKEKOK`;
+            - learn more from digisignPlay Specialist`;
 
   var speed = 60;
 
